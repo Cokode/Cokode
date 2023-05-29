@@ -1,4 +1,4 @@
-# Collins Chinedu Amalimeh
+# Collins C Amalimeh
 
 ## Welcome World! 🌐
 
