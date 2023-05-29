@@ -1,8 +1,10 @@
 # Collins Chinedu Amalimeh Hello! 
 
-|| 👋 Hi, I’m Collins Chinedu Amalimeh and A Nigerian citizen, currently I am in Hungary and studying Computer Science (BSc).
-|| 👀 I am on the road to becoming a proficient Software Engineer, I’m interested in learning core languages and fameworkds for backend development.
-|| 🌱 I have been able to build a RESTFUL application with Java using Spring Boot framework. I am always learning and evolving. above all I am persistent. 
+>>>>
+👋 Hi, I’m Collins Chinedu Amalimeh and A Nigerian citizen, currently I am in Hungary and studying Computer Science (BSc).
+👀 I am on the road to becoming a proficient Software Engineer, I’m interested in learning core languages and fameworkds for backend development.
+🌱 I have been able to build a RESTFUL application with Java using Spring Boot framework. I am always learning and evolving. above all I am persistent. 
+>>>>
 
 # 🏋🏽️‍
 >> I am a gym enthusiast. I believe Health is Wealth.
