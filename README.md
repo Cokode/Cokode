@@ -3,26 +3,25 @@
 ## Welcome World! 🌐
 
 >>>>
-- Hi, I’m Collins Chinedu Amalimeh and a Nigerian citizen, currently I am in Hungary and studying Computer Science (BSc). 
-- I am on the road to becoming a proficient Software Engineer, I’m interested in learning core languages and fameworkds for backend development. 
-- I have been able to build a RESTFUL applications with Java using Spring Boot framework.
-- I am always learning and evolving. Above all I am persistent and eager to learn. 
+- Hi, I'm Collins, a Nigerian citizen studying Computer Science (BSc) in Hungary. 
+- Transitioning to proficient Software Engineer, interested in backend languages and frameworks. 
+- I have been able to built RESTful applications with Spring Boot in Java, familiar with C language.
+- I am constantly learning and evolving, driven by persistence and an eagerness to acquire knowledge.
 >>>>
 
 # 🏋🏽️‍
->> I am a gym enthusiast. I believe Health is Wealth.
+>> I'm a gym enthusiast who believes in the saying "Health is Wealth." I prioritize physical well-being and understand its importance. Regular exercise, proper nutrition, and positive habits contribute to my overall well-being and happiness.
 
 # ✈
->> I love to travel and explore new places, meet new cultures and new people, try new foods, life is a joruney.
-
+>> I love to travel, explore new places, embrace different cultures, meet new people, and indulge in diverse cuisine. Life is a beautiful journey.
 # 🏡
->> I love spending as much time as possible with my family, and friends, they are dear to me, anywhere I find myself, I attract good friends.
+>> I prioritize spending quality time with loved ones, including family and friends. Regardless of my location, I naturally attract meaningful friendships.
 
 # 💞️ 
 >> I’m looking to collaborate on projects, and also open to Mentorship. Humility is the best friend of a man who wants to understand the secretes of Nature.
 
 # 🦁
->> I am resilient, I am flexible and adaptive regardless of the pressure. My life has been consistent journey of improvement. I encourage you to check out my Linkedin profile.
+>> I am resilient and flexible, thriving under pressure. My life is a continual journey of growth and improvement. Feel free to explore my LinkedIn profile for more information.
 -
 -
 >> 📫 How to reach me |[ @cocoke Twitter](https://twitter.com/co_kode) | contactmrc4@gmail.com | [in/collins-amalimeh-62b751223 linkedin](https://www.linkedin.com/in/collins-amalimeh-62b751223/)
