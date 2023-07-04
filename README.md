@@ -3,7 +3,7 @@
 ## Welcome World! 🌐
 
 >>>>
-- Hi, I'm Collins, a Nigerian citizen studying Computer Science (BSc) in Hungary. 
+- Hi, I'm Collins, and I'm studying Computer Science (BSc) in Hungary. 
 - Transitioning to proficient Software Engineer, interested in backend languages and frameworks. 
 - I have been able to built RESTful applications with Spring Boot in Java, familiar with C language.
 - I am constantly learning and evolving, driven by persistence and an eagerness to acquire knowledge.
