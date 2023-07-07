@@ -1,5 +1,3 @@
-# Collins Amalimeh
-
 ## Welcome World! 🌐
 
 >>>>
